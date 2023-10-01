@@ -1,6 +1,6 @@
 # Data Scientist | Problem Solver | Passionate about Data
 
-📊 Welcome to my GitHub! I'm a data scientist with a passion for solving real-world problems using data-driven insights.
+Welcome to my GitHub! I'm a data scientist with a passion for solving real-world problems using data-driven insights.
 
 🌱 **Lifelong Learner**: I'm a firm believer in continuous learning and always eager to explore new data horizons. 
 
