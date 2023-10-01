@@ -16,7 +16,7 @@
 - **Mathematical and Simulation Tools**: Wolfram Mathematica, Enterprise Dynamics, Arena Simulation
 - **Document Preparation**: LaTeX, RMarkdown
 - **Project Management & Collaboration**: Git, GitHub, JIRA
-- **Integrated Development Environments (IDEs)**: PyCharm, Spyder, Visual Studio Code, Jupyter, IntelliJ
+- **IDEs**: PyCharm, Spyder, Visual Studio Code, Jupyter, IntelliJ
 
 📬 **Let's Connect**: If you share my enthusiasm for data science or want to discuss potential collaborations, don't hesitate to reach out via GitHub. Let's exchange ideas and insights!
 
