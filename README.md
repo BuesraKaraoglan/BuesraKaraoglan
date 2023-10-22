@@ -1,4 +1,4 @@
-# Data Scientist | Problem Solver | Passionate about Data
+# Data Enthusiast | Always up for a data challenge!
 
 Welcome to my GitHub! I'm a data scientist with a passion for solving real-world problems using data-driven insights.
 
@@ -7,11 +7,11 @@ Welcome to my GitHub! I'm a data scientist with a passion for solving real-world
 📊 **Skills**: My toolbox includes data wrangling and visualization, statistical modeling, machine and deep learning, and the ability to unveil the mysteries of complex models using Explainable AI techniques. I'm well-equipped to handle diverse data challenges.
 
 🛠️ **Tech Stack**:
-- **Programming Languages**: Java, C++, Python, VBA
+- **Programming Languages**: Java, C++, Python, VBA, Bash
 - **Statistics Software**: R, SAS, SAS Enterprise Miner, SPSS
 - **Database and Data Storage**: SQL (MSSQL, PROC SQL, MySQL)
 - **Cloud Platforms**: Snowflake, Amazon Web Services, Microsoft Azure
-- **Project Management & Collaboration**: Git, GitHub, JIRA
+- **Project Management & Collaboration**: Git, GitHub, JIRA, Confluence
 - **Business Intelligence Software**: MicroStrategy, Power BI
 - **Mathematical and Simulation Tools**: Wolfram Mathematica, Enterprise Dynamics, Arena Simulation
 - **Document Preparation**: LaTeX, RMarkdown
